@@ -3,10 +3,9 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hi, Namaskara!!
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
-
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+I'm someone who has practiced the art of Medical statistics under the watchful eye of p-value,
+spent many nights wondering if trees ever spoke about numbers, if they did, can I discuss it with them using Reinforcement learning (RL) and visualize it using Shiny over a cup of coffee and occasionally wondering whether Fischer ever correlated with me regarding my feelings for simulation motor-sports.
